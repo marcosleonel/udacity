@@ -1,3 +1,3 @@
-function ThisContact() {
-    
+function Contact() {
+    return 'Contact';
 }
